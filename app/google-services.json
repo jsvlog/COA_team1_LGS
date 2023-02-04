@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184924505265",
+    "firebase_url": "https://coa-team1-app-default-rtdb.firebaseio.com",
+    "project_id": "coa-team1-app",
+    "storage_bucket": "coa-team1-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184924505265:android:33df1e790698c274034e90",
+        "android_client_info": {
+          "package_name": "com.example.coa_team1_lgs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184924505265-apuu1ft7rlpkokfgfv0fgq0e70r8gmr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coa_team1_lgs",
+            "certificate_hash": "1b6482b7f62160f3d8f889b70e9b55f9c7e0f44a"
+          }
+        },
+        {
+          "client_id": "184924505265-0nnef0sfttpcj8tkjl5rpb347tgd73tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjRDJrpipq3FFT2IfabXMC9ELgtJf6T-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184924505265-0nnef0sfttpcj8tkjl5rpb347tgd73tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
